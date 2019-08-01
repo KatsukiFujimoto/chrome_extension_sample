@@ -1,0 +1,1 @@
+// alert("これはmanifest.jsonのcontent_scriptsでの指定が正しいかどうかを確認するためのコメントとしての記述");
